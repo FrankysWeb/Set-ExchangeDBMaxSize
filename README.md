@@ -15,7 +15,7 @@ $NewDBMaxSize = 2048
 
 ## Details
 check my blog for details (german language):
- [Active Directory Shadow Groups aktualisieren](https://www.frankysweb.de/exchange-2019-exchangestoredb-eventid-171-datenbank-lasst-sich-nicht-mounten/)
+ [ExchangeStoreDB EventID 171 Datenbank lässt sich nicht mounten](https://www.frankysweb.de/exchange-2019-exchangestoredb-eventid-171-datenbank-lasst-sich-nicht-mounten/)
 
 ## Website
  [FrankysWeb](https://www.frankysweb.de/)
